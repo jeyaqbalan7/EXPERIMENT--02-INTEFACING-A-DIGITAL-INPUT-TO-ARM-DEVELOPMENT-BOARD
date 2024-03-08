@@ -164,7 +164,8 @@ void push_button()
 ```
 
 ### Output  :
-![pmc exp22](https://github.com/jeyaqbalan7/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393851/a2dc15cf-b5a9-40fb-aaae-99b179a838ea)
+![pmc exp22](https://github.com/jeyaqbalan7/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393851/a2dc15cf-b5a9-40fb-aaae-99b179a838ea)![pmc 222](https://github.com/jeyaqbalan7/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393851/3f2c9404-c81d-4523-81d5-b061cf4d7d55)
+
 
 
 ## Result :

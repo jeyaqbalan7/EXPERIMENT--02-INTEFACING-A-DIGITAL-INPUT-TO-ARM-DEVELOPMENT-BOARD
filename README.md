@@ -164,7 +164,8 @@ void push_button()
 ```
 
 ### Output  :
-<img height=40% width=45% src="https://github.com/ROHITJAIND/INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707073/4c074d82-c115-44a8-8997-42a85c064d66"><img height=40% width=45% src="https://github.com/ROHITJAIND/INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707073/d78d0092-1365-409c-8825-ee2cee7539fc">
+![pmc exp22](https://github.com/jeyaqbalan7/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393851/a2dc15cf-b5a9-40fb-aaae-99b179a838ea)
+
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.

@@ -128,8 +128,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ### STM 32 CUBE PROGRAM :
 ```
-ROHIT JAIN D
-212222230120
+Jeyabalan
+212222240040
 ```
 ```C
 #include "main.h"
